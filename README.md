@@ -1,1 +1,1 @@
-## Implemented the application during the university's 'Administration Hackathon' to develop a software that automated data entry, content generation from Excel files, and providing business owners with analytical summaries.
+#### Implemented the application during the university's 'Administration Hackathon' to develop a software that automated data entry, content generation from Excel files, and providing business owners with analytical summaries.
